@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moiz Siddiqui</h1>
-<h3 align="center">A passionate MERN Developer.</h3
+<h3 align="center">A passionate NODE Developer.</h3
 
 <img aling="left" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1PCdEgVcqeD0bvo-m8aifM&ust=1715341588780000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCiqsO_gIYDFQAAAAAdAAAAABAE">                                                  
 
